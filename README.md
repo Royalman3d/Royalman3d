@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Royalman3d
-- 👀 I’m interested in learning python, c++ and probably assembly 
-- 🌱 I’m currently know python by a bit though 
+- 👀 I’m interested in learning Python, C++ and probably Assembly. But a bit of Rust won't kill
+- 🌱 Quite skilled in Python 
 - 💞️ I’m looking to collaborate on absolutely any project cause I love to help
-- 📫 How to reach me —I dunno 🤷‍♂️ 
+- 📫 How to reach me at royalman3355@gmail.com 👀 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love code puns
 
